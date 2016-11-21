@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Currency Traveler</string>
+
+    <string name="conversion_table_title">Conversion Rates from U.S. Dollar</string>
+    <string name="refresh_rates">Refresh Rates</string>
+    <string name="zero_dollar">$0</string>
+    <string name="zero_reales">R$0</string>
+    <string name="zero_euro">€0</string>
+    <string name="zero_pounds">£0</string>
+    <string name="zero_yen">¥0</string>
+    <string name="dollars_s">$%s</string>
+    <string name="reales_s">R$%s</string>
+    <string name="euros_s">€%s</string>
+    <string name="pounds_s">£%s</string>
+    <string name="yen_s">¥%s</string>
+    <string name="fetch_rates">Fetching Currency Rates…</string>
+    <string name="could_not_fetch">Could not fetch the Currency Conversions</string>
+    <string name="please_select_country">Please select a country:</string>
+    <string name="amount_in_usd">Amount (in USD)</string>
+    <string name="amount_in_reales">Amount (in Reales)</string>
+    <string name="amount_in_euros">Amount (in Euros)</string>
+    <string name="amount_in_pounds">Amount (in Pounds)</string>
+    <string name="amount_in_yen">Amount (in Yen)</string>
+
+    <string name="brl">Brazil (BRL)</string>
+    <string name="gbp">Great Britain (GBP)</string>
+    <string name="eur">EU (EUR)</string>
+    <string name="jpy">Japan (JPY)</string>
+    <string name="usd">United States (USD)</string>
+</resources>
